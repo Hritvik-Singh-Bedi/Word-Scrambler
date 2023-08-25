@@ -39,7 +39,7 @@ body {
     margin-right: -18px;
     word-break: break-all;
     text-transform: uppercase;
-    color: #5372f0;
+    color: #f4a688;
 }
 
 .content .details {
@@ -65,7 +65,7 @@ body {
 }
 
 .content input:focus {
-    border-color: #5372f0;
+    border-color: #f4a688;
     background-color: #222;
     color: #fff;
 }
@@ -100,17 +100,17 @@ body {
 }
 
 .buttons .refresh-word {
-    background: #6c757d;
+    background: #8d9db6;
 }
 
 .buttons .refresh-word:hover {
-    background: #57666d;
+    background: #667292;
 }
 
 .buttons .check-word {
-    background: #5372f0;
+    background: #f4a688;
 }
 
 .buttons .check-word:hover {
-    background: #2c52ed;
+    background: #e0876a;
 }
